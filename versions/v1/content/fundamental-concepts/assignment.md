@@ -28,7 +28,7 @@ following exceptions:
 
 By single-stepping the program you will examine in detail what actions are taken
 in order to handle each exception.
-You will also study keyboard interrupts and how this can be used make the CPU do
+You will also study keyboard interrupts and how this can be used to make the CPU do
 something different while waiting for user input.
 To get a fully working system you must add or change the provided code at a few
 places.
